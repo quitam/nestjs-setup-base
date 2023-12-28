@@ -3,31 +3,46 @@
 ## Installation
 
 ```bash
+$ git clone https://github.com/quitam/nestjs-setup-base.git
 $ yarn install
+# or
+$ npm install
 ```
 
 ## Running the app
 
 ```bash
 # development
-$ yarn run start
+$ yarn start
+# or
+$ npm run start
 
 # watch mode
-$ yarn run dev
+$ yarn dev
+# or
+$ npm run dev
 
 # production mode
-$ yarn run start:prod
+$ yarn start:prod
+# or
+$ npm run start:prod
 ```
 
 ## Test
 
 ```bash
 # unit tests
-$ yarn run test
+$ yarn test
+# or
+$ npm run test
 
 # e2e tests
-$ yarn run test:e2e
+$ yarn test:e2e
+# or
+$ npm run test:e2e
 
 # test coverage
-$ yarn run test:cov
+$ yarn test:cov
+# or
+$ npm run test:cov
 ```
